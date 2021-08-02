@@ -1,7 +1,7 @@
 # Homeless Resources - Are We Doing Enough?
 # Project 1
 
--While exploring and 'interviewing' our data I learned that we can find out how adequate the country is with the homeless problem.
+-While exploring and 'interviewing' our data I learned that we can find out how equipped the country is with resources for the homeless problem.
 
 -I created 4 data sets one of beds count from 2017-2020, the second beds count for just 2020. The other 2 are the same thing but just the population count of the homeless instead of the beds count. 
 
