@@ -18,7 +18,7 @@
 # Data Conclusions
 -First thing I noticed looking at the line plot comparing the homeless population change over time vs the count of beds in homeless shelters, was that the nation is inadequately equipped to meet the needs of the growing homeless population.
 
--From the first plot we can see there has been a drastic turn upwards in 2018 in the population of homeless people yet that turn in numbers was not reflected in the count of beds which kept about the same mount throughout the 4 years.
+-From the muliple line plot we can see there has been a drastic turn upwards in 2018 in the population of homeless people yet that turn in numbers was not reflected in the count of beds which kept about the same amount throughout the 4 years.
 
 -We can conclude the country is having a problem putting up enough resources to combat the growing count in the homeless population. Building more homeless shelters in the harder to access areas and the densest cities could help bring up the number of beds available in shelters. This in turn can bring down the population count as well, because more homeless people are able to rehab their lives in the shelters.
 
