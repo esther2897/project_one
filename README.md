@@ -64,9 +64,9 @@ Using the CoC column in the datasets, created a bar graph the show the number of
 
 ### Key Findings 
 
-1. The number of CoCs . 
+1. The number of CoCs decreased in total throughout the time frame as the homeless population rose. 
 
 2. California has the most CoCs in place, increasing slightly by year. 
 
-3. 
+3. New York decreased their CoCs in 2020. 
 
