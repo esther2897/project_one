@@ -18,7 +18,7 @@ The CoC value references the state Continuum of Care programs. These programs ar
 
 Using data from 2017-2020 from PIT counts, showed the total homeless population for each state with a slider to move throughout the 4 years. This allows for a quick and easy view of where the homeless populations are the highest in the United States.
 
-![Alt text](charts/Total Homeless Map.png?raw=true "Overall Homeless Map")
+![Alt text](charts/total_homeless.png?raw=true "Overall Homeless Map")
 
 ### Key Findings
 
