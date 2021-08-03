@@ -1,1 +1,12 @@
-# project_one
+Gender Analysis:
+- Objective:
+  - To analyze the gender distribution both at the state-by-state and the country level from the 2017 to 2020 time period
+  - To see the change in the homeless population in terms of gender from the 2017 to 2020 time period
+- Conclusions
+  - All gender categories saw an uptick in homeless population in 2018
+  - The transgender homeless population saw a slight decrease in homeless populaiton in 2020
+  - The male homeless population has consistently been greater than that of the other gender homeless populations
+  - The overall distribution of the homeless population based on gender changed little from 2017 to 2020
+- Next Steps
+  - More data collection to ensure that misgendering has little influence on the data analysis
+  - Comparison of total population by gender with its respective homeless population to see which group is more drastically affected. 
