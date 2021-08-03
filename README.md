@@ -60,7 +60,7 @@ Using the change.csv file, created bar charts to show side by side which years h
 
 Using the CoC column in the datasets, created a bar graph the show the number of CoCs provided by State per year. 
 
-![Alt text](charts/percent_change.png?raw=true "CoC Bar")
+![Alt text](charts/CoC_Bar.png?raw=true "CoC Bar")
 
 ### Key Findings 
 
